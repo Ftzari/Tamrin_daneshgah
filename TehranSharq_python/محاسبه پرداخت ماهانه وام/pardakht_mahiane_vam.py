@@ -15,6 +15,6 @@ r = float(input("Input Rate: "))
 d = float(input("Input Duration: "))
 print(calc_monthly_payment(p, r, d))
 
-    #fatemeh tazari
-#Sunday.      7:45  ~  10
+#fatemeh tazari
+#Sunday. 7:45  ~  10
 
